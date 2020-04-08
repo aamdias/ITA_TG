@@ -1,4 +1,4 @@
-# ITA_TG
+# Trabalho de Graduação (Senior Thesis) ITA - MEC 2020
 
 In December of 2020, I'll be graduating as a mechanical engineer at Aeronautics Institute of Technology (ITA). This repo will be used to store all my senior thesis work related to coding.
 
